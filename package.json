@@ -8,7 +8,7 @@
     "npm": ">=6.9"
   },
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "iconv-lite": "^0.6.2",
     "redis": "^3.0.2",
